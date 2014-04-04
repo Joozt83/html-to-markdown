@@ -590,8 +590,6 @@ class HTML_To_Markdown
     /**
      * Output
      *
-     * Getter for the converted Markdown contents stored in $this->output
-     *
      * @return string
      */
     public function output()
