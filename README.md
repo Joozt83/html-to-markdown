@@ -10,6 +10,8 @@ A helper class that converts HTML to [Markdown](http://daringfireball.net/projec
 **Author**: [@nickcernis](http://twitter.com/nickcernis)  
 **License**: [MIT](http://www.opensource.org/licenses/mit-license.php)  
 
+**Author**: Branche [@Joozt83](j.horstman@gmail.com)
+
 ### Why convert HTML to Markdown?
 
 *"What alchemy is this?"* you mutter. *"I can see why you'd convert [Markdown to HTML](http://michelf.com/projects/php-markdown/),"* you continue, already labouring the question somewhat, *"but why go the other way?"*
