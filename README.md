@@ -10,7 +10,7 @@ A helper class that converts HTML to [Markdown](http://daringfireball.net/projec
 **Author**: [@nickcernis](http://twitter.com/nickcernis)  
 **License**: [MIT](http://www.opensource.org/licenses/mit-license.php)  
 
-**Author**: Branche [@Joozt83](j.horstman@gmail.com)
+**Author**: Branche [@Joozt83](mailto:j.horstman@gmail.com)
 
 ### Why convert HTML to Markdown?
 
