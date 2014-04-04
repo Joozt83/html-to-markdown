@@ -17,7 +17,7 @@
  * Branche created from version 2.1.1
  * 
  * All private function and members are now protected, this makes it easier 
- * for other people to extend from this calls.
+ * for other people to extend from this class.
  * 
  * Improved output, now all leftover HTML code striped 
  * Improved parsing of links
